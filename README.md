@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤔 Interested in distributed storage and analytics of data at scale
+- 🤔 Interested in distributed storage and analytics at scale
 - ⚡ Software Engineer at [Union.ai](https://www.union.ai/) working on OSS [Flyte](https://flyte.org/)
 - 🌱 Distributed Systems PhD on [analytics over observational datasets](https://blackpine.io/publications/rammer-dissertation-v2.pdf)
 - 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-rammer-b1ab4249/)
