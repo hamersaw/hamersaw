@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🤔 Interested in distributed storage and analytics of data at scale
+- ⚡ Software Engineer at [Union.ai](https://www.union.ai/) working on OSS [Flyte](https://flyte.org/)
+- 🌱 Distributed Systems PhD on [analytics over observational datasets](https://blackpine.io/publications/rammer-dissertation-v2.pdf)
+- 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-rammer-b1ab4249/)
+
 <!--
 **hamersaw/hamersaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
