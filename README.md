@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 - 🤔 Interested in distributed storage and analytics at scale
 - ⚡ Software Engineer at [Union.ai](https://www.union.ai/) working on OSS [Flyte](https://flyte.org/)
