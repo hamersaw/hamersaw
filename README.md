@@ -1,9 +1,12 @@
-### Howdy 👋
+### Howdy
 
-- 🤔 Interested in distributed storage and analytics at scale
-- ⚡ Software Engineer at [Union.ai](https://www.union.ai/) working on the [Flyte](https://flyte.org/) OSS team
-- 🌱 Distributed Systems PhD on [large-scale analytics over spatiotemporal datasets](https://blackpine.io/publications/rammer-dissertation-v2.pdf)
-- 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-rammer-b1ab4249/)
+- Interested in distributed storage and analytics at scale
+- Software Engineer at [Union.ai](https://www.union.ai/) working on the [Flyte](https://flyte.org/) OSS team
+- Distributed Systems PhD on [large-scale analytics over spatiotemporal datasets](https://blackpine.io/publications/rammer-dissertation-v2.pdf)
+- Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-rammer-b1ab4249/)
+
+![github stats](https://github-readme-stats.vercel.app/api/?username=hamersaw&count_private=true&hide_rank=true&hide_title=true&hide=stars)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamersaw&layout=compact&hide_title=true)
 
 <!--
 **hamersaw/hamersaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
