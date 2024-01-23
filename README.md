@@ -1,8 +1,8 @@
 ### Howdy
 
 - Interested in distributed storage and analytics at scale
-- Software Engineer at [Union.ai](https://www.union.ai/) working on the [Flyte](https://flyte.org/) OSS team
-- Distributed Systems PhD on [large-scale analytics over spatiotemporal datasets](https://blackpine.io/publications/rammer-dissertation-v2.pdf)
+- Software Engineer at [Union.ai](https://www.union.ai/) leading the Execution Orchestration team for [Flyte](https://flyte.org/).
+- Distributed Systems PhD on [large-scale analytics over spatiotemporal data](https://blackpine.io/publications/)
 - Reach me on [LinkedIn](https://www.linkedin.com/in/dan-rammer-phd-b1ab4249/)
 
 ![github stats](https://github-readme-stats.vercel.app/api/?username=hamersaw&count_private=true&hide_rank=true&hide_title=true&hide=stars)
