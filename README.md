@@ -5,8 +5,10 @@
 - Distributed Systems PhD on [large-scale analytics over spatiotemporal data](https://blackpine.io/publications/)
 - Reach me on [LinkedIn](https://www.linkedin.com/in/dan-rammer-phd-b1ab4249/)
 
+<!--
 ![github stats](https://github-readme-stats.vercel.app/api/?username=hamersaw&count_private=true&hide_rank=true&hide_title=true&hide=stars)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamersaw&layout=compact&hide_title=true)
+-->
 
 <!--
 **hamersaw/hamersaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
