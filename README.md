@@ -1,7 +1,7 @@
 ### Howdy
 
 - Interested in distributed storage and analytics at scale
-- Software Engineer at [Union.ai](https://www.union.ai/) leading the Execution Orchestration team for [Flyte](https://flyte.org/).
+- Staff Software Engineer at [Union.ai](https://www.union.ai/) improving performance and scalability of [Flyte](https://flyte.org/).
 - Distributed Systems PhD on [large-scale analytics over spatiotemporal data](https://blackpine.io/publications/)
 - Reach me on [LinkedIn](https://www.linkedin.com/in/dan-rammer-phd-b1ab4249/)
 
